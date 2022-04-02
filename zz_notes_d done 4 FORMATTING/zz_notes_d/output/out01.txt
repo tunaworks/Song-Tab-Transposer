@@ -1,0 +1,26 @@
+[FF] (Key:D)
+| (3/8) C |
+| D#      | Dm  D# | Dm     | A# F     |
+| (4/4) Asus4 | %      |
+[In] (Key:G) ひびけファンファーレ...
+| CM7     | %      | Bm7-5  | E7       |
+| Am      | Gm7    | F#m7-5 | %        |
+[Itl1]
+| G       | G/F    | Em7    | Eb F     |
+| G       | Em7-5  | Eb/F F | Gb/Ab Ab |
+[A] (Key:Db) 駆け出したら きっとはじまるストーリー
+| C       | Bb/C   | F      | Fm       |
+| Em7 F/A | A7     | Dm7    | G  G7    |
+| C       | Bb/C   | F      | Fm       |
+| Em7-5   | A7     | D      | G        |
+| C       | Bb  G  |
+[B] 勝利の女神を夢中にさせるよ
+| Gb      | Ab     | Fm7-5  | Bb7      |
+[B-cont] (Key:F#)
+| A#m7    | F      | G      | %        |
+| Esus4   | G#     |
+[Cho] (Key:G) ひびけファンファーレ とどけゴールまで
+| CM7     | %      | Bm7-5  | E7       |
+| Am      | Gm7    | F#m7-5 | %        |
+| FM7     | G      | Em7    | Ebdim7   |
+| Dm7     | C/E    | Ab     | A#       |
