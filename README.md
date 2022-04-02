@@ -1,4 +1,4 @@
-# chord_transposer
+# Song Tab/Chord Transposer
 Transposes a given chord progression sheet to a specific key 
 
 Files:
