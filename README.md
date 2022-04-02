@@ -25,8 +25,8 @@ input.txt
   ```
 
 <h2>example</h2>
----------------------------------------
 (delimiter at the start of the line is optional.)
+
 ```
 [Cho] (Key:G) Lyrics
 | GM7     | %      | F#m7-5 | B7       |
